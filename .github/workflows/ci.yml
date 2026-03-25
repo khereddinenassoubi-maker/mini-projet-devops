@@ -43,4 +43,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: khereddinenassoubi/mini-projet-devops:latest
+          tags: khereddine/mini-projet-devops:latest
